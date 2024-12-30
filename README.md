@@ -1,7 +1,7 @@
 # Optimizing-Health-Insights
 Machine Learning for Accurate Energy Expenditure Prediction
 
-**Google Colab File: ** https://colab.research.google.com/drive/1lUZrkZdqGMjg80ZzlJq5siEjsSZu3t3i?usp=sharing
+Google Colab File: https://colab.research.google.com/drive/1lUZrkZdqGMjg80ZzlJq5siEjsSZu3t3i?usp=sharing
 
 Accurately tracking the amount of energy expended or the number of calories burned during physical activities is essential for individuals aiming to monitor their health, fitness, and weight management goals. Traditional methods, such as fitness trackers, often rely on generalized formulas that may not account for individual variability in age, gender, height, weight, heart rate, duration, body temperature, and exercise intensity, leading to inaccurate estimations. With an increasing demand for personalized health insights, developing a model that considers these individual differences is essential to provide accurate calorie expenditure measurements.
 
